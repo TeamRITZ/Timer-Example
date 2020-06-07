@@ -11,8 +11,10 @@ __meta__ = {
 }
 
 [node name="Label2" type="Label" parent="."]
-margin_right = 40.0
-margin_bottom = 14.0
+margin_left = 66.899
+margin_top = 2.20063
+margin_right = 106.899
+margin_bottom = 16.2006
 text = "Ozma"
 __meta__ = {
 "_edit_use_anchors_": false
