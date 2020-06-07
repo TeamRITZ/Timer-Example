@@ -3,11 +3,21 @@
 [node name="OzmaScene" type="Node2D"]
 
 [node name="Label" type="Label" parent="."]
-margin_left = 50.2221
+margin_left = 53.2871
 margin_top = 32.4108
-margin_right = 90.2221
+margin_right = 93.2871
 margin_bottom = 46.4108
 text = "Ozma"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label2" type="Label" parent="."]
+margin_left = 169.599
+margin_top = 33.0344
+margin_right = 209.599
+margin_bottom = 47.0344
+text = "Tim"
 __meta__ = {
 "_edit_use_anchors_": false
 }
