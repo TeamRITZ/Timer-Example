@@ -1,0 +1,13 @@
+[gd_scene format=2]
+
+[node name="OzmaScene" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_left = 50.2221
+margin_top = 32.4108
+margin_right = 90.2221
+margin_bottom = 46.4108
+text = "Ozma"
+__meta__ = {
+"_edit_use_anchors_": false
+}
