@@ -14,21 +14,17 @@ position = Vector2( 97.4321, 82.0643 )
 texture = ExtResource( 1 )
 
 [node name="Label" type="Label" parent="."]
-margin_left = 67.6477
-margin_top = 28.3013
-margin_right = 127.648
-margin_bottom = 42.3013
-text = "Tim Mele"
+margin_left = 76.8904
+margin_top = 29.6217
+margin_right = 116.89
+margin_bottom = 43.6217
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Label2" type="Label" parent="."]
-margin_left = 21.8992
-margin_top = 27.7389
-margin_right = 61.8992
-margin_bottom = 41.7389
-text = "Ozma"
+[node name="Ozma Label" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
 __meta__ = {
 "_edit_use_anchors_": false
 }
