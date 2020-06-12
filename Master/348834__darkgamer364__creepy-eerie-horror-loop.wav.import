@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/348834__darkgamer364__creepy-eerie-horror-loop.wav-2f40aea446e789fe93f6771013d04a8f.sample"
+
+[deps]
+
+source_file="res://Master/348834__darkgamer364__creepy-eerie-horror-loop.wav"
+dest_files=[ "res://.import/348834__darkgamer364__creepy-eerie-horror-loop.wav-2f40aea446e789fe93f6771013d04a8f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

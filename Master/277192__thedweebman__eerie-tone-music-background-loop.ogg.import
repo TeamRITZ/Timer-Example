@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/277192__thedweebman__eerie-tone-music-background-loop.ogg-cd4ac36f2d5f1ac2e1318a25908488b2.oggstr"
+
+[deps]
+
+source_file="res://Master/277192__thedweebman__eerie-tone-music-background-loop.ogg"
+dest_files=[ "res://.import/277192__thedweebman__eerie-tone-music-background-loop.ogg-cd4ac36f2d5f1ac2e1318a25908488b2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

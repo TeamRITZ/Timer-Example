@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/514164__danlucaz__dark-loop-2.ogg-659cb0ddc853117c0b525ff0b4be23b1.oggstr"
+
+[deps]
+
+source_file="res://Master/514164__danlucaz__dark-loop-2.ogg"
+dest_files=[ "res://.import/514164__danlucaz__dark-loop-2.ogg-659cb0ddc853117c0b525ff0b4be23b1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
